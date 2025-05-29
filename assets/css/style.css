@@ -1,0 +1,39 @@
+
+body {
+    font-family: sans-serif;
+    background-color: #fefefe;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #f5f5f0;
+    text-align: center;
+    padding: 1em;
+}
+
+main {
+    padding: 2em;
+}
+
+section {
+    margin-bottom: 2em;
+    background: #fff;
+    padding: 1em;
+    border: 1px solid #eee;
+    border-radius: 10px;
+}
+
+.viber-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #665cac;
+    color: white;
+    font-size: 20px;
+    padding: 10px 15px;
+    border-radius: 50%;
+    text-decoration: none;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
